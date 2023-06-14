@@ -4,4 +4,4 @@
 Output/
 
 # utility script to import dependencies
-import-requirements.ps1
+import-requierments.ps1
