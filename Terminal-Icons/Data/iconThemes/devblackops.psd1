@@ -573,7 +573,7 @@
             # Scala
             '.scala'                = 'nf-dev-scala'
             '.sc'                   = 'nf-dev-scala'
-            
+
             # Sbt
             '.sbt'                  = 'nf-seti-sbt'
 

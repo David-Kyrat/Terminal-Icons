@@ -572,7 +572,7 @@
             # Sbt
             '.sbt'                  = '0e3a51'
 
-            # Makefile 
+            # Makefile
             'Makefile'              = 'ef524f'
 
             # Svelte
