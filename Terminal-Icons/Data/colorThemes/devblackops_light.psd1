@@ -50,6 +50,7 @@
                 '.aws'                  = 'EC912D'
                 '.kube'                 = '326DE6'
                 '.docker'               = '2391E6'
+                'target'                = 'df8678'
             }
         }
         Files = @{
