@@ -100,6 +100,10 @@
                 'bitbucket-pipelines.yaml'      = 'nf-dev-bitbucket'
                 '.azure-pipelines.yml'          = 'nf-md-microsoft_azure'
 
+                # Angular
+                'angular.json'                  = 'nf-md-angular'
+                '.angular-config.json'          = 'nf-md-angular'
+
                 # Firebase
                 'firebase.json'                 = 'nf-dev-firebase'
                 '.firebaserc'                   = 'nf-dev-firebase'
@@ -124,6 +128,9 @@
                 'docker-compose.prod.yml'       = 'nf-dev-docker'
                 'docker-compose.production.yml' = 'nf-dev-docker'
                 'docker-compose.test.yml'       = 'nf-dev-docker'
+
+                # EditorConfig
+                '.editorconfig'                 = 'nf-seti-editorconfig'
 
                 # Vue
                 'vue.config.js'                 = 'nf-md-vuejs'

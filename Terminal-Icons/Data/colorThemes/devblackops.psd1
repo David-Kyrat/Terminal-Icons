@@ -97,6 +97,13 @@
                 'bitbucket-pipelines.yaml'      = '87CEFA'
                 '.azure-pipelines.yml'          = '00BFFF'
 
+                # Angular
+                'angular.json'                  = 'DD0031'
+                '.angular-config.json'          = 'DD0031'
+
+                #Karma
+                'karma.conf.js'                 = '42BEAE'
+
                 # Firebase
                 'firebase.json'                 = 'FFA500'
                 '.firebaserc'                   = 'FFA500'
