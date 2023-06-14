@@ -566,6 +566,15 @@
             # Scala
             '.scala'                = 'nf-dev-scala'
             '.sc'                   = 'nf-dev-scala'
+            
+            # Sbt
+            '.sbt'                  = 'nf-seti-sbt'
+
+            # Makefile 
+            'Makefile'              = 'nf-seti-makefile'
+
+            # Svelte
+            '.svelte'               = 'nf-seti-svelte'
 
             # Autodesk Inventor
             '.iLogicVb'             = 'nf-md-alpha_i'

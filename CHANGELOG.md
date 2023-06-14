@@ -20,6 +20,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Add icon and color for Scala (.scala, .sc)
 - Add icon and color for Autodesk Inventor (.iLogicVb)
 
+*** 
+
+- Add icon and color for sbt, svelte and makefile (.sbt, .svelte, Makefile)
+
+
 ## [0.10.0] 2022-07-06
 
 ### Added
