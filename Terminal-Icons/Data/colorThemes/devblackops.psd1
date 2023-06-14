@@ -561,6 +561,15 @@
             '.scala'                = 'DE3423'
             '.sc'                   = 'DE3423'
 
+            # Sbt
+            '.sbt'                  = '0e3a51'
+
+            # Makefile 
+            'Makefile'              = 'ef524f'
+
+            # Svelte
+            '.svelte'               = 'ff3c00'
+
             # Autodesk Inventor
             '.iLogicVb'             = 'A63B22'
         }
