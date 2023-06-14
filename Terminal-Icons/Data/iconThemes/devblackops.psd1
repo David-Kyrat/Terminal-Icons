@@ -577,7 +577,6 @@
             # Sbt
             '.sbt'                  = 'nf-seti-sbt'
 
-            # Makefile 
             'Makefile'              = 'nf-seti-makefile'
 
             # Svelte
